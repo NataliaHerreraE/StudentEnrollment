@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Grades>
+  <Grade>
+    <Info>|||85|95|89.2|25.5|28.5|35.68|89.68|B</Info>
+  </Grade>
+  <Grade>
+    <Info>86|96|93|25.8|28.8|37.2|91.8|A</Info>
+  </Grade>
+  <Grade>
+    <Info>50|89|91|15|26.7|36.4|78.1|C</Info>
+  </Grade>
+  <Grade>
+    <Info>36|89|100|10.8|26.7|40|77.5|C</Info>
+  </Grade>
+  <Grade>
+    <Info>36|75|100|10.8|22.5|40|73.3|C</Info>
+  </Grade>
+</Grades>
